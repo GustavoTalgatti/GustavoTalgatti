@@ -49,4 +49,3 @@ Buscando me aperfeiçoar em:
 
 📫 **Contato:** talgatti2015@gmail.com  
 🌐 [Meu LinkedIn](https://www.linkedin.com/in/luisgustavotalgatti)  
-🔗 [Portfólio completo no GitHub](https://github.com/GustavoTalgatti)
